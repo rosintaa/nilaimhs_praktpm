@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        submit = findViewById(R.id.submit);
+        submit = findViewById(R.id.btn_submit);
         eNama = findViewById(R.id.et_nama);
         eNIM = findViewById(R.id.et_nim);
         eNilai = findViewById(R.id.et_nilai);
