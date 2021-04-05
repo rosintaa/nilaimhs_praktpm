@@ -35,7 +35,7 @@
             android:textStyle="bold"
             android:textColor="#000"/>
         <TextView
-            android:id="@+id/bnama"
+            android:id="@+id/tv_nama"
             android:text="nama"
             android:textAlignment="center"
             android:textAppearance="?android:textAppearanceMedium"
@@ -63,7 +63,7 @@
             android:textStyle="bold"
             android:textColor="#000"/>
         <TextView
-            android:id="@+id/bnim"
+            android:id="@+id/tv_nim"
             android:text="nim"
             android:textAlignment="center"
             android:textAppearance="?android:textAppearanceMedium"
@@ -91,7 +91,7 @@
             android:textStyle="bold"
             android:textColor="#000"/>
         <TextView
-            android:id="@+id/bnilai"
+            android:id="@+id/tv_nilai"
             android:text="nilai"
             android:textAlignment="center"
             android:textAppearance="?android:textAppearanceMedium"
