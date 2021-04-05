@@ -13,9 +13,9 @@ public class Activity2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity2);
 
-        bNama = findViewById(R.id.bnama);
-        bNIM = findViewById(R.id.bnim);
-        bNilai = findViewById(R.id.bnilai);
+        bNama = findViewById(R.id.tv_nama);
+        bNIM = findViewById(R.id.tv_nim);
+        bNilai = findViewById(R.id.tv_nilai);
 
         String nama, nim, huruf;
         double nilaihuruf;
